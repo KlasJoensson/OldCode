@@ -1,0 +1,1 @@
+This is old projects crated by a much younger me on my Amiga 1000. They where written probably around 1989-1992, but some may be written as late as the spring of 1995. I've just rewritten them with the bugs etc that was when I left them.
